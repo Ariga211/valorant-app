@@ -3,3 +3,5 @@
 ２．git commit -m "コメント"
 ３．git push
 でgit hubに反映
+
+あいうえおかきくけこ
