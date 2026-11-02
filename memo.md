@@ -8,3 +8,5 @@
 - **git pull origin main**
 - これで相手の更新内容と **<<<<======>>>>** 等の矢印が出たらそれらを消して、
 - **git push origin main**
+
+さしすせそ
